@@ -1,0 +1,17 @@
+{
+  "name": "vitest-solid-start-timeout",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0",
+    "vitest": "^0.31.1"
+  },
+  "dependencies": {
+    "solid-start": "^0.2.26",
+    "solid-start-node": "^0.2.26"
+  }
+}
